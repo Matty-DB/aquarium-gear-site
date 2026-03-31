@@ -1,0 +1,9 @@
+# Hugo output
+public/
+resources/_gen/
+
+# macOS
+.DS_Store
+
+# Hugo temp
+.hugo_build.lock
