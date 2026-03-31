@@ -1,6 +1,6 @@
 # Source: https://gohugo.io/getting-started/configuration/
 # and https://github.com/adityatelange/hugo-PaperMod/wiki/Installation
-baseURL = "https://matty-db.github.io/aquarium-gear-site/"
+baseURL = "https://aquapicked.com/"
 languageCode = "en-au"
 title = "Aquarium Gear Guide"
 theme = "PaperMod"
