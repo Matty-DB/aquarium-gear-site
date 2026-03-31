@@ -1,0 +1,26 @@
+{{- /* Product + Review JSON-LD for comparison/review articles (SEO-03) */ -}}
+{{- if and .IsPage .Params.ratings -}}
+{{- range .Params.ratings -}}
+<script type="application/ld+json">
+{{- dict
+    "@context" "https://schema.org"
+    "@type" "Product"
+    "name" .product
+    "review" (dict
+        "@type" "Review"
+        "reviewRating" (dict
+            "@type" "Rating"
+            "ratingValue" .score
+            "bestRating" "5"
+            "worstRating" "1"
+        )
+        "author" (dict
+            "@type" "Organization"
+            "name" "Aquarium Gear Guide"
+        )
+        "reviewBody" .summary
+    )
+| jsonify -}}
+</script>
+{{- end -}}
+{{- end -}}
