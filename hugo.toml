@@ -1,3 +1,43 @@
-baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'My New Hugo Project'
+# Source: https://gohugo.io/getting-started/configuration/
+# and https://github.com/adityatelange/hugo-PaperMod/wiki/Installation
+baseURL = "https://matty-db.github.io/aquarium-gear-site/"
+languageCode = "en-au"
+title = "Aquarium Gear Guide"
+theme = "PaperMod"
+
+enableRobotsTXT = true
+buildFuture = false
+buildDrafts = false
+
+[minify]
+  disableXML = false
+
+[params]
+  env = "production"
+  description = "Expert aquarium equipment reviews and comparisons for freshwater and marine fishkeepers."
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
+  ShowToc = true
+  ShowShareButtons = false
+  ShowCodeCopyButtons = false
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[[menu.main]]
+  name = "Reviews"
+  url = "/categories/"
+  weight = 10
+
+[[menu.footer]]
+  name = "Privacy Policy"
+  url = "/privacy/"
+  weight = 10
+
+[[menu.footer]]
+  name = "About"
+  url = "/about/"
+  weight = 20
