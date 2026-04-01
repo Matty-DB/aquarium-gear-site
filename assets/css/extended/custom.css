@@ -117,17 +117,12 @@
    ============================================================ */
 .affiliate-disclosure {
     margin-top: 2rem;
-    margin-bottom: 1rem;
-    padding: 1rem 1.25rem;
-    background: var(--code-bg);
-    border-left: 3px solid var(--brand-primary);
-    border-radius: 4px;
-    font-size: 0.85rem;
+    margin-bottom: 0;
+    padding: 0;
+    background: none;
+    border: none;
+    font-size: 0.75rem;
     color: var(--secondary);
-    line-height: 1.5;
-}
-
-:root[data-theme="dark"] .affiliate-disclosure {
-    background: var(--entry);
-    border-left-color: var(--brand-accent);
+    opacity: 0.6;
+    line-height: 1.4;
 }
