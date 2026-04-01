@@ -50,7 +50,7 @@ Here are my five top picks for the **best rimless tank under $150**, all tested 
 
 ## 1. Fluval Flex 34L — Best All-Round Rimless Tank Under $150
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=fluval+flex+34l)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=fluval+flex+34l&tag=aquapicked-20)
 
 The Fluval Flex 34L has been my daily driver for a planted shrimp tank for the past six months, and it's the one I recommend to anyone who wants a rimless setup with minimal fuss. The curved front panel gives it a distinctive look — it's not a flat rimless in the traditional sense, but the absence of a frame and that gentle bow makes for a genuinely striking display piece on a desk or countertop.
 
@@ -81,7 +81,7 @@ The Fluval Flex 34L has been my daily driver for a planted shrimp tank for the p
 
 ## 2. Dennerle Nano Cube 30L — Best for Aquascaping
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=dennerle+nano+cube+30l)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=dennerle+nano+cube+30l&tag=aquapicked-20)
 
 The Dennerle Nano Cube is a favourite among planted tank enthusiasts for good reason. I ran one as a dedicated aquascape for about three months before moving it to my office as a shrimp breeding tank. The glass clarity on these is noticeably a step above most budget rimless tanks — Dennerle uses float glass with polished edges that genuinely rival tanks twice the price.
 
@@ -111,7 +111,7 @@ The Dennerle Nano Cube is a favourite among planted tank enthusiasts for good re
 
 ## 3. Aqua One Focus 25 — Best Budget Rimless Tank
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=aqua+one+focus+25)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=aqua+one+focus+25&tag=aquapicked-20)
 
 If you're after the cheapest way into a rimless tank that doesn't feel cheap, the Aqua One Focus 25 is it. I picked one up from Petbarn during a sale for $79 AUD and used it as a quarantine tank for three weeks before repurposing it as a desktop betta setup. It's a genuinely solid tank for the money — Aqua One is an Australian brand, so stock availability and spare parts are never an issue.
 
@@ -141,7 +141,7 @@ If you're after the cheapest way into a rimless tank that doesn't feel cheap, th
 
 ## 4. UNS 5S (19L) — Best Small Rimless Tank
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=uns+5s+rimless+tank)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=uns+5s+rimless+tank&tag=aquapicked-20)
 
 Ultum Nature Systems has built a cult following in the planted tank community, and after running their 5S for four months as a nano shrimp tank, I understand why. This is a beautifully made little tank — the low-iron glass gives it that crystal-clear, almost invisible look that standard glass just can't match.
 
@@ -172,7 +172,7 @@ Ultum Nature Systems has built a cult following in the planted tank community, a
 
 ## 5. Waterbox Clear Mini 10 — Best Premium Rimless Under $150
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=waterbox+clear+mini+10)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=waterbox+clear+mini+10&tag=aquapicked-20)
 
 The Waterbox Clear Mini 10 sits right at the top of the under-$150 budget — and in some shops slightly over it — but the build quality justifies every dollar. I tested one at a mate's place where he's been running it as a planted nano for over a year, and the 6 mm ultra-clear glass on this thing is genuinely impressive. It looks and feels like a tank that should cost $200+.
 

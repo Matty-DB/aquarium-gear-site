@@ -48,7 +48,7 @@ Here's what actually works — and what to avoid — if you're hunting for the b
 
 ## 1. Fluval Pressurized 45g CO2 Kit — Best Overall Under $100
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=fluval+pressurized+45g+co2+kit)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=fluval+pressurized+45g+co2+kit&tag=aquapicked-20)
 
 **Rating: 4.3/5**
 
@@ -81,7 +81,7 @@ Nano and small planted tanks up to about 75 litres. If your tank is closer to th
 
 ## 2. FZONE CO2 Generator Kit (Pro) — Best for Larger Tanks on a Budget
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=fzone+co2+generator+kit+pro)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=fzone+co2+generator+kit+pro&tag=aquapicked-20)
 
 **Rating: 4.1/5**
 
@@ -116,7 +116,7 @@ Hobbyists with tanks in the 75–150 litre range who don't mind a bit of hands-o
 
 ## 3. Fluval Mini Pressurized 20g CO2 Kit — Best for Nano Tanks
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=fluval+mini+pressurized+20g+co2+kit)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=fluval+mini+pressurized+20g+co2+kit&tag=aquapicked-20)
 
 **Rating: 3.8/5**
 
@@ -148,7 +148,7 @@ True nano tanks under 40 litres where you want a clean, compact CO2 solution wit
 
 ## 4. ZRDR Aquarium CO2 Generator System — Budget Citric Acid Option
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=zrdr+aquarium+co2+generator+system)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=zrdr+aquarium+co2+generator+system&tag=aquapicked-20)
 
 **Rating: 3.5/5**
 
@@ -181,7 +181,7 @@ Budget-conscious hobbyists who want to try citric acid CO2 without committing to
 
 ## 5. Ista Waterplant CO2 Supply Set — Cheapest Entry Point
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=ista+waterplant+co2+supply+set)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=ista+waterplant+co2+supply+set&tag=aquapicked-20)
 
 **Rating: 3.2/5**
 

@@ -83,7 +83,7 @@ Cheap sponge filters love to float or tip over. A weighted base plate keeps ever
 
 ### 1. Hikari Bacto-Surge D — Best Overall Sponge Filter for Betta Tanks
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=hikari+bacto+surge+d)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=hikari+bacto+surge+d&tag=aquapicked-20)
 
 The Hikari Bacto-Surge D has been my go-to sponge filter for betta tanks for the last three years, and nothing else I've tested has unseated it. It's a double-sponge design with a central air lift tube, and the build quality is genuinely a step above the generic alternatives flooding the market.
 
@@ -115,7 +115,7 @@ Noise-wise, paired with a USB nano air pump with the flow turned to about 40%, i
 
 ### 2. Aquarium Co-Op Coarse Sponge Filter — Best Biological Filtration
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=aquarium+co+op+coarse+sponge+filter)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=aquarium+co+op+coarse+sponge+filter&tag=aquapicked-20)
 
 The Aquarium Co-Op sponge filter has a cult following in the fishkeeping hobby, and after running one for about eight months in my 40-litre betta community tank, I understand why. The coarse sponge material has noticeably larger pores than any other filter on this list, which translates to an enormous surface area for nitrifying bacteria.
 
@@ -147,7 +147,7 @@ The catch for Australian buyers: Aquarium Co-Op is a US-based company, and you'l
 
 ### 3. Qanvee QS-100A — Best for Nano Betta Tanks
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=qanvee+qs+100a)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=qanvee+qs+100a&tag=aquapicked-20)
 
 If you're running a compact 15–20 litre betta tank — the kind that sits on your desk or bedside table — most sponge filters are frankly too big. The Qanvee QS-100A solves this problem. It's genuinely tiny, with a footprint smaller than a 50-cent coin, and it tucks into the back corner of a nano cube without stealing precious swimming space.
 
@@ -178,7 +178,7 @@ The standout feature is the noise — or rather, the lack of it. The air lift tu
 
 ### 4. Lustar Hydro-Sponge I — Best Budget Sponge Filter
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=lustar+hydro+sponge+i)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=lustar+hydro+sponge+i&tag=aquapicked-20)
 
 The Lustar Hydro-Sponge has been around for decades — it's one of the original sponge filter designs, and breeders worldwide have used it for generations. The Hydro-Sponge I is the smallest in the range, rated for tanks up to about 20 litres, and it does exactly what you need a sponge filter to do without any frills.
 
@@ -208,7 +208,7 @@ The downsides are minor but worth noting. The bullseye-pattern sponge is a sligh
 
 ### 5. XINYOU XY-2831 — Best Dual Sponge on a Budget
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=xinyou+xy+2831)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=xinyou+xy+2831&tag=aquapicked-20)
 
 You've almost certainly seen this filter — it's the ubiquitous black double-sponge filter that dominates Amazon, eBay, and every aquarium forum recommendation thread. The XINYOU XY-2831 is cheap, widely available, and functional. For under $10 AUD, you get a dual sponge design that punches above its price point.
 
@@ -238,7 +238,7 @@ The air lift tube also produces larger, louder bubbles. In my bedroom tank, I co
 
 ### 6. Aqua One Filter Air 25 — Easiest to Find in Australia
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=aqua+one+filter+air+25)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=aqua+one+filter+air+25&tag=aquapicked-20)
 
 Aqua One is an Australian brand, and the Filter Air 25 is stocked at Petbarn, most independent aquarium stores, and practically every online Australian pet retailer. If you want to walk into a shop today and walk out with a sponge filter, this is probably what you'll find.
 

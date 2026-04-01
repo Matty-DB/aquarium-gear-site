@@ -48,7 +48,7 @@ I've personally run each of these five tanks for extended periods — some in my
 
 ## 1. Fluval Flex 57L — Best Overall Starter Tank for Beginners
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=fluval+flex+57l)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=fluval+flex+57l&tag=aquapicked-20)
 
 The Fluval Flex has been my go-to recommendation for beginners for years now, and after running one continuously for over six months, I stand by that completely.
 
@@ -83,7 +83,7 @@ The curved front glass is a nice touch aesthetically, though I'll admit it sligh
 
 ## 2. Aqua One AquaNano 40 — Best Australian Brand Option
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=aqua+one+aquanano+40)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=aqua+one+aquanano+40&tag=aquapicked-20)
 
 Aqua One is an Australian brand, which means availability and after-sales support are never an issue. You'll find the AquaNano 40 in virtually every Petbarn, Aquotix, and independent fish shop in the country. That matters more than people realise — when a pump dies at 9pm on a Sunday, you want replacement parts that are actually in stock locally.
 
@@ -117,7 +117,7 @@ The LED light is a fixed daylight spectrum (6500K) — no colour modes or dimmin
 
 ## 3. Juwel Primo 110 — Best Starter Tank for Beginners Who Want More Space
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=juwel+primo+110)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=juwel+primo+110&tag=aquapicked-20)
 
 If you've got the room and the budget, starting with a bigger tank is actually *easier* for beginners — and I wish more people knew this. Larger water volumes are far more forgiving of mistakes. A missed water change or a slight overfeeding doesn't spike your ammonia nearly as fast in 110 litres as it does in 20.
 
@@ -152,7 +152,7 @@ The Day LED bar is bright enough for moderate plant growth. I've successfully gr
 
 ## 4. Fluval Spec V (19L) — Best Small Starter Tank
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=fluval+spec+v+19l)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=fluval+spec+v+19l&tag=aquapicked-20)
 
 Not everyone wants or has room for a 50+ litre tank, and that's completely fine. The Fluval Spec V is the best small starter tank I've used — and I've tried quite a few nano setups.
 
@@ -188,7 +188,7 @@ One thing to note: at 19 litres, water parameters can shift quickly. You'll want
 
 ## 5. Aqua One Horizon 65 — Best Budget Starter Tank
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=aqua+one+horizon+65)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=aqua+one+horizon+65&tag=aquapicked-20)
 
 If budget is the primary concern, the Aqua One Horizon 65 delivers genuine value. At $100–$140 AUD, you're getting 65 litres of swimming space with an integrated filter and LED — and it's available at every Petbarn in the country.
 

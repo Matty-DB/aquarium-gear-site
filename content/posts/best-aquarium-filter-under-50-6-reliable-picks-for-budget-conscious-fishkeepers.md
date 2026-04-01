@@ -74,7 +74,7 @@ The flow rate adjusts via a simple lever on the intake tube, which is handy if y
 
 **Rating: 4.7/5**
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=aquaclear+30)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=aquaclear+30&tag=aquapicked-20)
 
 ## 2. Seachem Tidal 35 — Best for Easy Maintenance
 
@@ -99,7 +99,7 @@ In my testing, the Tidal 35 handles tanks up to about 130 litres on paper, thoug
 
 **Rating: 4.5/5**
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=seachem+tidal+35)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=seachem+tidal+35&tag=aquapicked-20)
 
 ## 3. Aquael Turbo Filter 500 — Best Internal Filter for Medium Tanks
 
@@ -122,7 +122,7 @@ What I like most is the modular design — you can stack additional media contai
 
 **Rating: 4.3/5**
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=aquael+turbo+filter+500)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=aquael+turbo+filter+500&tag=aquapicked-20)
 
 ## 4. Fluval U2 — Most Versatile Internal Filter
 
@@ -145,7 +145,7 @@ It uses a two-stage system: dual foam pads (one coarse, one fine) and a BioMax p
 
 **Rating: 4.1/5**
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=fluval+u2)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=fluval+u2&tag=aquapicked-20)
 
 ## 5. Dual Sponge Filter (Air-Driven) — Best for Shrimp and Fry Tanks
 
@@ -171,7 +171,7 @@ After about a month, the sponge colonises with beneficial bacteria beautifully, 
 
 **Rating: 3.9/5**
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=dual+sponge+filter)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=dual+sponge+filter&tag=aquapicked-20)
 
 ## 6. OASE FiltoSmart 100 — Best Budget Canister Filter
 
@@ -197,7 +197,7 @@ The trade-off is capacity — with only 1 litre of media space, it's best suited
 
 **Rating: 4.6/5**
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=oase+filtosmart+100)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=oase+filtosmart+100&tag=aquapicked-20)
 
 ## What to Look For in a Budget Aquarium Filter
 

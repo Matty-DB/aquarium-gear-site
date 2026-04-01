@@ -48,7 +48,7 @@ I've spent the last eight months testing five of the most popular kits available
 
 ## 1. API Freshwater Master Test Kit — Best Overall
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=api+freshwater+master+test+kit)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=api+freshwater+master+test+kit&tag=aquapicked-20)
 
 **Rating: 4.7/5**
 
@@ -91,7 +91,7 @@ Anyone serious about fishkeeping who wants the most accurate readings possible u
 
 ## 2. NT Labs Aquarium Lab Multi-Test Kit — Best for Planted Tanks & Shrimp Keepers
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=nt+labs+aquarium+lab+multi+test+kit)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=nt+labs+aquarium+lab+multi+test+kit&tag=aquapicked-20)
 
 **Rating: 4.4/5**
 
@@ -130,7 +130,7 @@ Shrimp breeders, planted tank enthusiasts, and anyone who needs GH/KH readings w
 
 ## 3. Sera Aqua Quick Test — Best Test Strips for the Money
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=sera+aqua+quick+test)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=sera+aqua+quick+test&tag=aquapicked-20)
 
 **Rating: 3.6/5**
 
@@ -164,7 +164,7 @@ Hobbyists who want quick daily monitoring to supplement a liquid test kit, or be
 
 ## 4. Tetra EasyStrips 6-in-1 — Budget Pick for Beginners
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=tetra+easystrips+6+in+1)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=tetra+easystrips+6+in+1&tag=aquapicked-20)
 
 **Rating: 3.2/5**
 
@@ -197,7 +197,7 @@ Absolute beginners who want something simple while they learn the hobby, or expe
 
 ## 5. API 5-in-1 Test Strips — Widest Strip Availability
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=api+5+in+1+test+strips)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=api+5+in+1+test+strips&tag=aquapicked-20)
 
 **Rating: 3.0/5**
 
@@ -272,4 +272,4 @@ The **Tetra EasyStrips 6-in-1** at **3.2/5** and **API 5-in-1 Test Strips** at *
 
 Whatever you choose, the most important thing is that you're testing at all. Consistent water testing is the single best thing you can do for your fish — and at under $40, there's no excuse not to have a kit on hand.
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=api+freshwater+master+test+kit)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=api+freshwater+master+test+kit&tag=aquapicked-20)

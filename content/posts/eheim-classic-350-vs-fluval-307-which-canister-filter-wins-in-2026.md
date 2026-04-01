@@ -63,7 +63,7 @@ The Eheim Classic 350 — also known by its model number 2215 — is one of thos
 
 The Eheim Classic 350 is ideal if you value **reliability and silence** above all else. It's perfect for planted tanks where you want gentle, consistent flow rather than a fire hose. It's also brilliant for anyone who hates unnecessary complexity — there's genuinely nothing to break on this thing.
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=eheim+classic+350+2215)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=eheim+classic+350+2215&tag=aquapicked-20)
 
 ## Fluval 307: The Modern All-Rounder
 
@@ -89,7 +89,7 @@ The Fluval 307 is Fluval's mid-range canister, sitting between the smaller 207 a
 
 The Fluval 307 suits hobbyists who want **convenience and modern features**. If you do regular maintenance and appreciate easy basket access, quick priming, and tool-free hose disconnection, the Fluval makes the chore far less annoying. It's also the better choice for heavily stocked community tanks or cichlid setups where you want higher turnover.
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=fluval+307)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=fluval+307&tag=aquapicked-20)
 
 ## What to Look For When Choosing a Canister Filter
 

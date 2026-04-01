@@ -48,7 +48,7 @@ The short answer: yes, there are legitimately good options in this price range. 
 
 ## 1. SunSun HW-302 — Best Canister Filter Under $100 Overall
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=sunsun+hw+302)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=sunsun+hw+302&tag=aquapicked-20)
 
 **Rating: 4.5/5**
 
@@ -87,7 +87,7 @@ The flow rate is rated at 1000 litres per hour, which gives you roughly 5x turno
 
 ## 2. Aqua One Nautilus 600 — Best for Local Availability
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=aqua+one+nautilus+600)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=aqua+one+nautilus+600&tag=aquapicked-20)
 
 **Rating: 4.2/5**
 
@@ -123,7 +123,7 @@ I ran the Nautilus 600 on my 120-litre planted tank for about three months befor
 
 ## 3. Penn-Plax Cascade 700 — Best Compact Option
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=penn+plax+cascade+700)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=penn+plax+cascade+700&tag=aquapicked-20)
 
 **Rating: 3.9/5**
 
@@ -158,7 +158,7 @@ I tested this on a 140-litre planted tank for about five weeks. Flow out of the 
 
 ## 4. SunSun HW-603B — Best for Nano and Small Tanks
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=sunsun+hw+603b)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=sunsun+hw+603b&tag=aquapicked-20)
 
 **Rating: 3.6/5**
 
@@ -195,7 +195,7 @@ It's tiny. The whole unit is about the size of a large coffee thermos (11 × 11 
 
 ## 5. Hidom EF-600 — Best Ultra-Budget Option
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=hidom+ef+600)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=hidom+ef+600&tag=aquapicked-20)
 
 **Rating: 3.3/5**
 

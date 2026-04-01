@@ -48,7 +48,7 @@ Here are the five I'd recommend after hands-on testing.
 
 ## 1. Jebao DCP-2500 — Best Overall Under $100
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=jebao+dcp+2500)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=jebao+dcp+2500&tag=aquapicked-20)
 
 The Jebao DCP-2500 is the pump I recommend most often to mates setting up their first sump. It's a DC-powered controllable pump with a dial controller that lets you adjust flow from around 500 L/hr all the way up to 2,500 L/hr. That adjustability is a massive advantage — it means you can dial in exactly the turnover rate your tank needs without messing about with ball valves.
 
@@ -75,7 +75,7 @@ Anyone running a sump on a tank between 100 and 300 litres who wants DC controll
 
 ## 2. Sicce Syncra Silent 1.5 — Quietest Option
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=sicce+syncra+silent+1+5)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=sicce+syncra+silent+1+5&tag=aquapicked-20)
 
 If noise is your number one concern — say, the tank is in your bedroom or lounge room — the Sicce Syncra Silent 1.5 is worth every cent. This is an Italian-made AC pump, and the build quality is immediately obvious when you pick it up. The housing is thick, solid, and feels like it'll outlast the tank.
 
@@ -103,7 +103,7 @@ Reefkeepers and planted tank owners with smaller setups (under 200 litres) who v
 
 ## 3. Eheim CompactON 2100 — Best Build Quality
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=eheim+compacton+2100)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=eheim+compacton+2100&tag=aquapicked-20)
 
 Eheim has been making aquarium pumps since before most of us were born, and the CompactON 2100 carries that reputation well. This is a compact AC pump that pushes 2,100 L/hr with a 1.9-metre head height. The build is what you'd expect from Eheim — precision German engineering with a ceramic bearing and impeller assembly that clicks together with satisfying accuracy.
 
@@ -131,7 +131,7 @@ Hobbyists who want proven reliability and easy access to replacement parts in Au
 
 ## 4. Jebao DCS-2000 — Best Budget Pick
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=jebao+dcs+2000)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=jebao+dcs+2000&tag=aquapicked-20)
 
 If you're working to a tight budget — maybe you're a student setting up your first sump, or you've just spent your whole budget on live rock — the Jebao DCS-2000 gets the job done at an incredibly low price point. I've seen these go for as little as $50 AUD online, which is remarkable for a DC controllable pump.
 
@@ -160,7 +160,7 @@ Budget-conscious hobbyists who want DC controllability at the lowest possible pr
 
 ## 5. Aqua One Maxi 104 — Easiest to Find in Australia
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=aqua+one+maxi+104)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=aqua+one+maxi+104&tag=aquapicked-20)
 
 The Aqua One Maxi 104 deserves a spot on this list purely for availability. If you need a return pump today and want to walk into a shop and buy one, this is probably the easiest pump to find in Australia. Petbarn, Pet Circle, and most independent aquarium stores carry the Maxi range. It's an Australian brand (well, Australian-marketed — manufactured in China like most of these), and that means warranty claims are straightforward.
 

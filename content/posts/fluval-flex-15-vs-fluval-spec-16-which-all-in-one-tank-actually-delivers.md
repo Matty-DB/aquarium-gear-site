@@ -143,7 +143,7 @@ Both are similarly priced in Australia, but the Flex 15 tends to sit $10–$20 h
 - Stock light PAR drops off noticeably below 30 cm, limiting demanding plant species
 - Typically $10–$20 more expensive than the Spec 16 in Australian retailers
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=fluval+flex+15+gallon+aquarium)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=fluval+flex+15+gallon+aquarium&tag=aquapicked-20)
 
 ### Fluval Spec 16
 
@@ -161,7 +161,7 @@ Both are similarly priced in Australia, but the Flex 15 tends to sit $10–$20 h
 - Filtration compartment visible from the side (no honeycomb cover)
 - Lower water column height (35 cm) limits vertical swimming space for mid-level species
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=fluval+spec+16+gallon+aquarium)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=fluval+spec+16+gallon+aquarium&tag=aquapicked-20)
 
 ## Maintenance and Long-Term Living
 
@@ -189,6 +189,6 @@ The **Fluval Spec 16** (4.1/5) is the better choice specifically for aquascaping
 
 For most people reading this comparison, I'd recommend the **Fluval Flex 15**. It solves more problems out of the box and requires fewer add-ons to run well. But if you already know you want a planted tank and you're planning to invest in your aquascape, the Spec 16 deserves serious consideration.
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=fluval+flex+15+gallon+aquarium)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=fluval+flex+15+gallon+aquarium&tag=aquapicked-20)
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=fluval+spec+16+gallon+aquarium)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=fluval+spec+16+gallon+aquarium&tag=aquapicked-20)

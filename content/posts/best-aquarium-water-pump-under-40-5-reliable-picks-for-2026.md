@@ -48,7 +48,7 @@ I've tested five of the best aquarium water pumps under $40 currently available 
 
 ### 1. Aqua One Maxi 103 — Best All-Rounder
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=aqua+one+maxi+103)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=aqua+one+maxi+103&tag=aquapicked-20)
 
 The Aqua One Maxi 103 is my go-to recommendation for anyone who wants a dependable pump without overthinking it. I've been running one in my 120-litre community tank for six months now, and it hasn't skipped a beat.
 
@@ -76,7 +76,7 @@ The 600 litres per hour flow rate is perfect for small to medium tanks. It pushe
 
 ### 2. Hailea HX-2500 — Best for Larger Tanks on a Budget
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=hailea+hx+2500)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=hailea+hx+2500&tag=aquapicked-20)
 
 If you need more grunt without blowing your budget, the Hailea HX-2500 delivers 1000 litres per hour at around $32 AUD. I ran this one as a sump return pump on a 200-litre planted tank, and it handled the 0.9-metre vertical lift without breaking a sweat.
 
@@ -105,7 +105,7 @@ The downside? It's not the quietest pump on this list. In my testing, I could he
 
 ### 3. Hydor Pico Evo-Mag 650 — Best Build Quality
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=hydor+pico+evo+mag+650)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=hydor+pico+evo+mag+650&tag=aquapicked-20)
 
 The Hydor Pico Evo-Mag 650 is the premium pick on this list, sitting right at the $38 AUD mark. It's Italian-engineered, and honestly, you can feel the difference the moment you take it out of the box. The housing has a matte finish with tight tolerances — no visible mould lines or rough edges.
 
@@ -134,7 +134,7 @@ The 650 L/h flow rate is right in the sweet spot for tanks up to 180 litres. Wha
 
 ### 4. SunSun HJ-611B — Best Budget Option
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=sunsun+hj+611b)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=sunsun+hj+611b&tag=aquapicked-20)
 
 At around $15 AUD, the SunSun HJ-611B is the cheapest pump on this list by a significant margin — and it's surprisingly capable for the money. I picked one up to run as a circulation pump in a 60-litre quarantine tank, and after three weeks of continuous use, it's still going strong.
 
@@ -162,7 +162,7 @@ Let's be realistic about what you're getting here. The plastic impeller won't la
 
 ### 5. Jebao FA-1000 — Best Value for Flow
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=jebao+fa+1000)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=jebao+fa+1000&tag=aquapicked-20)
 
 Jebao has built a reputation for offering features well above their price point, and the FA-1000 is a solid example. At around $25 AUD, you're getting 1000 litres per hour — matching the Hailea HX-2500's output for $7 less.
 

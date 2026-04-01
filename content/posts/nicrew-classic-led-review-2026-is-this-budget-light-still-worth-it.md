@@ -98,7 +98,7 @@ The verdict on plants is clear: the NICREW Classic LED is a low-light fixture. I
 - Not enough output for medium or high-light plant species
 - Splash-resistant only — any condensation dripping onto the LEDs over time is a concern
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=nicrew+classic+led)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=nicrew+classic+led&tag=aquapicked-20)
 
 ## How Does the NICREW Classic LED Plus Compare?
 
@@ -120,7 +120,7 @@ The build quality is essentially identical — same aluminium housing, same brac
 - RGB mode can look a bit garish if all colours are at full — needs manual balancing via the switch
 - Slightly higher power draw (about 18W vs 12W on the 76 cm model)
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=nicrew+classic+led+plus)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=nicrew+classic+led+plus&tag=aquapicked-20)
 
 ## What About the Hygger 999?
 
@@ -141,7 +141,7 @@ The Hygger's brackets also felt flimsier than the NICREW's, with thinner plastic
 - Thinner plastic brackets with less rubber grip surface area
 - Limited plant-growing capability even for low-light species
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=hygger+999+led)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=hygger+999+led&tag=aquapicked-20)
 
 ## What to Look For in a Budget Aquarium Light
 
@@ -190,4 +190,4 @@ A competent budget alternative with a slightly longer power cord, but the lower 
 
 For most Australian fishkeepers on a budget, my recommendation is simple: skip the base Classic and go straight for the **NICREW Classic LED Plus**. The small price bump delivers noticeably better results, and you'll avoid the urge to upgrade six months down the line — which is exactly what happened to me.
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=nicrew+classic+led+plus)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=nicrew+classic+led+plus&tag=aquapicked-20)

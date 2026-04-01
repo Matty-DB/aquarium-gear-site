@@ -48,7 +48,7 @@ Here's what I found.
 
 ## 1. AquaClear 20 (Fluval) — Best Overall Budget HOB
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=aquaclear+20)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=aquaclear+20&tag=aquapicked-20)
 
 The AquaClear 20 has been around for decades, and there's a reason it keeps showing up in every "best hang on back filter under $30" list. I've been running one on my 60-litre planted community tank for six months now, and it's genuinely hard to fault at this price.
 
@@ -80,7 +80,7 @@ The AquaClear 20 is widely available in Australia. Petbarn stocks it both in-sto
 
 ## 2. Aqueon QuietFlow 10 — Quietest Filter on the List
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=aqueon+quietflow+10)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=aqueon+quietflow+10&tag=aquapicked-20)
 
 If noise is your primary concern — say you're putting a tank in a bedroom or home office — the Aqueon QuietFlow 10 is remarkably quiet. I measured it at under 25 decibels from 30cm away using a phone meter app, which is essentially inaudible once you're more than a metre from the tank.
 
@@ -111,7 +111,7 @@ Aqueon is less commonly stocked in Australian brick-and-mortar shops than Fluval
 
 ## 3. Tetra Whisper IQ 20 — Solid Mid-Range Choice
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=tetra+whisper+iq+20)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=tetra+whisper+iq+20&tag=aquapicked-20)
 
 Tetra's Whisper IQ line was redesigned a few years back with a focus on noise reduction, and it delivers on that promise. The "SoundShield" housing is a plastic clamshell design that does dampen motor vibration — not quite as silent as the Aqueon, but close. I'd put it at about 28 decibels from 30cm.
 
@@ -142,7 +142,7 @@ Tetra products are well-distributed in Australia. Petbarn, Pet Circle, and most 
 
 ## 4. Marineland Penguin 75 — The Bio-Wheel Veteran
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=marineland+penguin+75)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=marineland+penguin+75&tag=aquapicked-20)
 
 The Marineland Penguin series has been a staple in the hobby for years, largely because of the Bio-Wheel — a rotating cylinder that sits in the outflow and provides wet/dry biological filtration. In theory, it's brilliant: the wheel constantly exposes beneficial bacteria to both water and air, which should supercharge the nitrogen cycle.
 
@@ -174,7 +174,7 @@ Marineland products can be tricky to source in Australia. You'll rarely find the
 
 ## 5. Penn-Plax Cascade 80 — The Ultra-Budget Option
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=penn+plax+cascade+80)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=penn+plax+cascade+80&tag=aquapicked-20)
 
 At $16–$22 AUD, the Penn-Plax Cascade 80 is the cheapest hang on back filter on this list. And honestly, it performs like it. I picked one up as a backup filter for a quarantine tank, and it does the bare minimum.
 

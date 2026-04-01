@@ -80,7 +80,7 @@ The battery backup feature is worth mentioning too. If power goes out, the VorTe
 
 The VorTech MP40 is built for dedicated reefers running SPS-dominant tanks above 300 litres who want precise, programmable flow and don't mind paying for reliability. If your coral collection is worth thousands, spending $600 on the pump that keeps them alive is a no-brainer.
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=ecotech+vortech+mp40)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=ecotech+vortech+mp40&tag=aquapicked-20)
 
 ---
 
@@ -120,7 +120,7 @@ At full tilt, the SOW-16M pushes around 16,000 litres per hour, which is actuall
 
 The SOW-16M is ideal for hobbyists running soft coral or LPS-dominant tanks up to 600 litres, or as a secondary circulation pump on larger systems. It's also a fantastic choice for quarantine tanks, frag tanks, or any setup where you want solid wave-making performance without a premium price tag.
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=jebao+sow+16m)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=jebao+sow+16m&tag=aquapicked-20)
 
 ---
 
@@ -145,7 +145,7 @@ At $80–$110 AUD, it's tempting, but I'd honestly recommend saving the extra $4
 - 13,000 L/hr maximum flow is adequate but not impressive for the physical size of the unit
 - Cross-flow impeller design is harder to clean than the SOW's pop-out propeller
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=jebao+slw+30)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=jebao+slw+30&tag=aquapicked-20)
 
 ---
 
