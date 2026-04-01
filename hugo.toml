@@ -2,7 +2,7 @@
 # and https://github.com/adityatelange/hugo-PaperMod/wiki/Installation
 baseURL = "https://aquapicked.com/"
 languageCode = "en-au"
-title = "Aquarium Gear Guide"
+title = "AquaPicked"
 theme = "PaperMod"
 
 enableRobotsTXT = true
@@ -16,12 +16,25 @@ buildDrafts = false
   env = "production"
   description = "Expert aquarium equipment reviews and comparisons for freshwater and marine fishkeepers."
   defaultTheme = "auto"
+  mainSections = ["posts"]
   ShowReadingTime = true
   ShowBreadCrumbs = true
   ShowPostNavLinks = true
   ShowToc = true
   ShowShareButtons = false
   ShowCodeCopyButtons = false
+
+[params.homeInfoParams]
+  Title = "Find the Right Gear. Skip the Guesswork."
+  Content = "Expert-researched aquarium equipment reviews for Australian fishkeepers."
+
+[params.label]
+  text = "AquaPicked"
+
+[params.assets]
+  favicon = "/favicon.svg"
+  favicon16x16 = "/favicon.svg"
+  favicon32x32 = "/favicon.svg"
 
 [taxonomies]
   category = "categories"

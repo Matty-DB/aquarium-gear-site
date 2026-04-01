@@ -1,0 +1,85 @@
+/* AquaPicked Brand CSS — Phase 05 */
+/* PaperMod auto-loads all *.css in assets/css/extended/ after core styles */
+
+/* ============================================================
+   BRAND PALETTE (D-01: aquatic blues/teals/whites)
+   ============================================================ */
+:root {
+    --brand-primary:  #0077b6;   /* ocean blue */
+    --brand-accent:   #00b4d8;   /* teal/cyan */
+    --brand-light:    #caf0f8;   /* pale aqua */
+    --brand-dark:     #03045e;   /* deep navy */
+}
+
+/* ============================================================
+   LIGHT MODE — Override PaperMod theme vars
+   ============================================================ */
+:root {
+    --primary: rgb(30, 30, 30);       /* keep default text */
+    --secondary: #457b9d;             /* muted teal for secondary text */
+    --tertiary: #a8dadc;              /* light teal for borders/dividers */
+    --border: #a8dadc;                /* aquatic border color */
+}
+
+/* ============================================================
+   DARK MODE — Override PaperMod theme vars
+   ============================================================ */
+:root[data-theme="dark"] {
+    --secondary: #90e0ef;             /* bright aqua for dark mode secondary */
+    --tertiary: #023e8a;              /* deep blue for dark borders */
+    --border: #023e8a;
+}
+
+/* ============================================================
+   HEADER LOGO (D-08: text logo with styling)
+   ============================================================ */
+.logo a {
+    font-weight: 800;
+    letter-spacing: -0.03em;
+    color: var(--brand-primary);
+}
+
+:root[data-theme="dark"] .logo a {
+    color: var(--brand-accent);
+}
+
+/* ============================================================
+   HOMEPAGE HERO (D-06/D-07: homeInfoParams styling)
+   ============================================================ */
+.home-info {
+    border-left: 4px solid var(--brand-primary);
+    padding-left: 1.5rem;
+    min-height: auto;
+}
+
+.home-info .entry-header h1 {
+    color: var(--brand-primary);
+    font-size: 1.75rem;
+}
+
+:root[data-theme="dark"] .home-info .entry-header h1 {
+    color: var(--brand-accent);
+}
+
+/* ============================================================
+   LINKS — Aquatic accent color
+   ============================================================ */
+.post-content a {
+    color: var(--brand-primary);
+}
+
+:root[data-theme="dark"] .post-content a {
+    color: var(--brand-accent);
+}
+
+/* ============================================================
+   POST ENTRY CARDS — Subtle brand touches
+   ============================================================ */
+.post-entry {
+    border-radius: 8px;
+    transition: border-color 0.2s ease;
+}
+
+.post-entry:hover {
+    border-color: var(--brand-primary);
+}
