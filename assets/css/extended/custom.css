@@ -83,3 +83,51 @@
 .post-entry:hover {
     border-color: var(--brand-primary);
 }
+
+/* ============================================================
+   CATEGORY COLOR STRIPS (D-11)
+   Colored top border on article cards based on data-category
+   Category names from config.yaml — case-sensitive exact match
+   ============================================================ */
+.post-entry[data-category="Filters"]      { border-top: 4px solid #0077b6; }
+.post-entry[data-category="Lighting"]     { border-top: 4px solid #f4a261; }
+.post-entry[data-category="CO2 Systems"]  { border-top: 4px solid #2a9d8f; }
+.post-entry[data-category="Tanks"]        { border-top: 4px solid #4895ef; }
+.post-entry[data-category="Heaters"]      { border-top: 4px solid #e63946; }
+.post-entry[data-category="Substrates"]   { border-top: 4px solid #8b5e3c; }
+.post-entry[data-category="Pumps"]        { border-top: 4px solid #457b9d; }
+.post-entry[data-category="Test Kits"]    { border-top: 4px solid #6a0572; }
+.post-entry[data-category="Fish Food"]    { border-top: 4px solid #ff9f1c; }
+.post-entry[data-category="Aquascaping"]  { border-top: 4px solid #52b788; }
+
+/* First-entry (featured post on homepage) also gets category color */
+.first-entry[data-category="Filters"]     { border-top: 4px solid #0077b6; }
+.first-entry[data-category="Lighting"]    { border-top: 4px solid #f4a261; }
+.first-entry[data-category="CO2 Systems"] { border-top: 4px solid #2a9d8f; }
+.first-entry[data-category="Tanks"]       { border-top: 4px solid #4895ef; }
+.first-entry[data-category="Heaters"]     { border-top: 4px solid #e63946; }
+.first-entry[data-category="Substrates"]  { border-top: 4px solid #8b5e3c; }
+.first-entry[data-category="Pumps"]       { border-top: 4px solid #457b9d; }
+.first-entry[data-category="Test Kits"]   { border-top: 4px solid #6a0572; }
+.first-entry[data-category="Fish Food"]   { border-top: 4px solid #ff9f1c; }
+.first-entry[data-category="Aquascaping"] { border-top: 4px solid #52b788; }
+
+/* ============================================================
+   FTC DISCLOSURE — Inline on article pages (D-04)
+   ============================================================ */
+.affiliate-disclosure {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    padding: 1rem 1.25rem;
+    background: var(--code-bg);
+    border-left: 3px solid var(--brand-primary);
+    border-radius: 4px;
+    font-size: 0.85rem;
+    color: var(--secondary);
+    line-height: 1.5;
+}
+
+:root[data-theme="dark"] .affiliate-disclosure {
+    background: var(--entry);
+    border-left-color: var(--brand-accent);
+}
