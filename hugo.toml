@@ -9,6 +9,9 @@ enableRobotsTXT = true
 buildFuture = false
 buildDrafts = false
 
+[services.googleAnalytics]
+  ID = "G-MVDRS5G1QC"
+
 [minify]
   disableXML = false
 
