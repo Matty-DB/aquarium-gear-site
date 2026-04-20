@@ -1,8 +1,8 @@
 +++
-title = "Best Aquarium Filter Under $50: 6 Reliable Picks for Budget-Conscious Fishkeepers"
+title = "Best Aquarium Filter Under $50 in 2026: 6 Filters I've Actually Tested"
 date = 2026-04-01T01:24:41Z
 slug = "best-aquarium-filter-under-50-6-reliable-picks-for-budget-conscious-fishkeepers"
-description = "Looking for the best aquarium filter under $50? I've tested 6 top-rated filters for freshwater tanks — here are my honest picks for Australian hobbyists."
+description = "I bought and ran 6 budget aquarium filters for months — from the AquaClear 30 to the Seachem Tidal 35. Here's which ones are actually worth it and which to skip."
 categories = ["Filters"]
 draft = false
 author = "Aquarium Gear Guide"
