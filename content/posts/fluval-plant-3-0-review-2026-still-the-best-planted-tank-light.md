@@ -147,7 +147,7 @@ The Chihiros WRGB II Pro is the Fluval's most direct competitor, and honestly, i
 
 Where the Fluval wins is reliability and local support. The Chihiros is harder to find in Australian retail stores — you'll mostly be ordering online from specialist importers or AquaticArt. If something goes wrong, warranty claims are simpler with Fluval through local stockists like Petbarn. The Fluval also has the better IP rating (IP67 vs IP54), which matters if you're clumsy during water changes like I am.
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=chihiros+wrgb+ii+pro&tag=aquapicked-20)
+[Check Price (Amazon AU)](https://www.amazon.com.au/s?k=chihiros+wrgb+ii+pro&tag=aquapickedau-22) | [Check Price (Amazon US)](https://www.amazon.com/s?k=chihiros+wrgb+ii+pro&tag=aquapicked-20)
 
 ### Fluval Plant 3.0 vs Twinstar S Series
 
@@ -155,7 +155,7 @@ The Twinstar S Series is a solid budget-friendly alternative if you don't need a
 
 The Twinstar is also genuinely difficult to source in Australia. Most hobbyists import them directly from South Korea or through specialist online retailers, which adds shipping time and complicates warranty claims.
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=twinstar+s+series+900s&tag=aquapicked-20)
+[Check Price (Amazon AU)](https://www.amazon.com.au/s?k=twinstar+s+series+900s&tag=aquapickedau-22) | [Check Price (Amazon US)](https://www.amazon.com/s?k=twinstar+s+series+900s&tag=aquapicked-20)
 
 ## What to Look For in a Planted Tank Light
 
@@ -210,7 +210,7 @@ The Fluval Plant 3.0 is one of the easiest planted tank lights to source in Aust
 
 Expect to pay between $189 and $249 AUD depending on the size and retailer. Sales around EOFY (June) and Black Friday typically knock $20–40 off.
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=fluval+plant+3+0&tag=aquapicked-20)
+[Check Price (Amazon AU)](https://www.amazon.com.au/s?k=fluval+plant+3+0&tag=aquapickedau-22) | [Check Price (Amazon US)](https://www.amazon.com/dp/B083QP62MP?tag=aquapicked-20)
 
 ## Final Verdict
 

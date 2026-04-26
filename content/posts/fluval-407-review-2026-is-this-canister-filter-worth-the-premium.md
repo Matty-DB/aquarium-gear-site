@@ -134,7 +134,7 @@ One gripe: the motor housing collects a ring of gunk where it meets the canister
 - Price sits $100+ above the Eheim Classic 600, which offers comparable biological filtration
 - No built-in pre-filter — coarse debris goes straight into the bottom basket
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=fluval+407+canister+filter&tag=aquapicked-20)
+[Check Price (Amazon AU)](https://www.amazon.com.au/s?k=fluval+407+canister+filter&tag=aquapickedau-22) | [Check Price (Amazon US)](https://www.amazon.com/dp/B07JFY2QW6?tag=aquapicked-20)
 
 ## How It Compares: Alternatives Worth Considering
 
@@ -146,7 +146,7 @@ The trade-off is usability. There's no quick-prime system (you'll need to manual
 
 At $280–$330 AUD, it's the value pick. If you don't mind the less polished maintenance experience, the 2217 will filter your water just as effectively for years. Finding stock in Australia is rarely an issue — Petbarn carries them, and most specialist aquarium shops like Aquotix keep them on the shelf.
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=eheim+classic+600+2217&tag=aquapicked-20)
+[Check Price (Amazon AU)](https://www.amazon.com.au/s?k=eheim+classic+600+2217&tag=aquapickedau-22) | [Check Price (Amazon US)](https://www.amazon.com/s?k=eheim+classic+600+2217&tag=aquapicked-20)
 
 ### Oase BioMaster 600
 
@@ -156,7 +156,7 @@ The 12.8-litre media volume is the largest in this comparison, and the four bask
 
 The downside is price and availability. At $420–$470 AUD, it's the most expensive option, and Oase products can be harder to find in Australian stores compared to Fluval or Eheim. Online specialists stock them, but you might wait a week or two for shipping from interstate. It's also physically larger — the 28 cm depth means it won't fit in all cabinet setups.
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=oase+biomaster+600&tag=aquapicked-20)
+[Check Price (Amazon AU)](https://www.amazon.com.au/s?k=oase+biomaster+600&tag=aquapickedau-22) | [Check Price (Amazon US)](https://www.amazon.com/s?k=oase+biomaster+600&tag=aquapicked-20)
 
 ## What to Look For in a Canister Filter
 
@@ -201,7 +201,7 @@ It's not perfect. The stiff hosing is an annoyance, the lid clamps need more for
 
 For most Australian hobbyists running a mid-sized community or planted tank, the Fluval 407 hits the sweet spot between performance, convenience, and value. It's the filter I'd recommend to a mate setting up their first serious tank — and the one I'm happy to keep running on mine.
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=fluval+407+canister+filter&tag=aquapicked-20)
+[Check Price (Amazon AU)](https://www.amazon.com.au/s?k=fluval+407+canister+filter&tag=aquapickedau-22) | [Check Price (Amazon US)](https://www.amazon.com/dp/B07JFY2QW6?tag=aquapicked-20)
 
 ## Related Articles
 

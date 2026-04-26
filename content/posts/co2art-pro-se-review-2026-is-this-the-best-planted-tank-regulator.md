@@ -131,7 +131,7 @@ This regulator is ideal for hobbyists running medium to large planted tanks (100
 
 It's probably overkill for a small nano tank under 40 litres where a paintball CO2 setup or even a DIY citric acid system would do the job.
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=co2art+pro+se+regulator&tag=aquapicked-20)
+[Check Price (Amazon AU)](https://www.amazon.com.au/s?k=co2art+pro+se+regulator&tag=aquapickedau-22) | [Check Price (Amazon US)](https://www.amazon.com/dp/B084TVM54D?tag=aquapicked-20)
 
 ## How the Alternatives Stack Up
 
@@ -147,7 +147,7 @@ For the price, it's a solid dual-stage option, especially if you want something 
 
 **Rating: 3.9/5**
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=fzone+dual+stage+co2+regulator&tag=aquapicked-20)
+[Check Price (Amazon AU)](https://www.amazon.com.au/s?k=fzone+dual+stage+co2+regulator&tag=aquapickedau-22) | [Check Price (Amazon US)](https://www.amazon.com/s?k=fzone+dual+stage+co2+regulator&tag=aquapicked-20)
 
 ### UP Aqua A-164
 
@@ -159,7 +159,7 @@ If budget is genuinely tight and you're disciplined about swapping cylinders bef
 
 **Rating: 3.4/5**
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=up+aqua+a+164+co2+regulator&tag=aquapicked-20)
+[Check Price (Amazon AU)](https://www.amazon.com.au/s?k=up+aqua+a+164+co2+regulator&tag=aquapickedau-22) | [Check Price (Amazon US)](https://www.amazon.com/s?k=up+aqua+a+164+co2+regulator&tag=aquapicked-20)
 
 ## What to Look For When Choosing a CO2 Regulator
 
@@ -197,4 +197,4 @@ The main drawback for Australian buyers is availability. Ordering from Europe an
 
 If your budget allows it, the CO2Art Pro SE is the one I'd recommend. It's the regulator I'd buy again without hesitation.
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=co2art+pro+se+regulator&tag=aquapicked-20)
+[Check Price (Amazon AU)](https://www.amazon.com.au/s?k=co2art+pro+se+regulator&tag=aquapickedau-22) | [Check Price (Amazon US)](https://www.amazon.com/dp/B084TVM54D?tag=aquapicked-20)

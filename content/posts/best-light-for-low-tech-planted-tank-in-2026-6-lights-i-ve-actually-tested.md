@@ -80,7 +80,7 @@ The aluminium housing feels properly solid — not the flimsy plastic you get on
 
 **Rating: 4.7/5**
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=fluval+plant+3+0+led&tag=aquapicked-20)
+[Check Price (Amazon AU)](https://www.amazon.com.au/s?k=fluval+plant+3+0+led&tag=aquapickedau-22) | [Check Price (Amazon US)](https://www.amazon.com/dp/B083QP62MP?tag=aquapicked-20)
 
 ## 2. Chihiros C2 RGB — Best for Small Low Tech Planted Tanks
 
@@ -106,7 +106,7 @@ At around 85 µmol PAR at 30cm depth, it sits right in the sweet spot for low te
 
 **Rating: 4.5/5**
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=chihiros+c2+rgb&tag=aquapicked-20)
+[Check Price (Amazon AU)](https://www.amazon.com.au/s?k=chihiros+c2+rgb&tag=aquapickedau-22) | [Check Price (Amazon US)](https://www.amazon.com/s?k=chihiros+c2+rgb&tag=aquapicked-20)
 
 ## 3. Nicrew ClassicLED Plus — Best Budget Light for Low Tech Planted Tanks
 
@@ -134,7 +134,7 @@ The single brightness dial on the top of the unit is dead simple. No app, no Blu
 
 **Rating: 4.2/5**
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=nicrew+classicled+plus&tag=aquapicked-20)
+[Check Price (Amazon AU)](https://www.amazon.com.au/s?k=nicrew+classicled+plus&tag=aquapickedau-22) | [Check Price (Amazon US)](https://www.amazon.com/s?k=nicrew+classicled+plus&tag=aquapicked-20)
 
 ## 4. Hygger 24/7 Auto Timer LED — Best Set-and-Forget Option
 
@@ -160,7 +160,7 @@ PAR sits around 65 µmol at 30cm, which lands comfortably in low tech territory.
 
 **Rating: 4.0/5**
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=hygger+24+7+auto+timer+led&tag=aquapicked-20)
+[Check Price (Amazon AU)](https://www.amazon.com.au/s?k=hygger+24+7+auto+timer+led&tag=aquapickedau-22) | [Check Price (Amazon US)](https://www.amazon.com/s?k=hygger+24+7+auto+timer+led&tag=aquapicked-20)
 
 ## 5. Twinstar S Series — Best Premium Option for Serious Low Tech Tanks
 
@@ -186,7 +186,7 @@ PAR is around 95 µmol at 30cm depth, so for low tech I dim it to roughly 50–6
 
 **Rating: 4.4/5**
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=twinstar+s+series&tag=aquapicked-20)
+[Check Price (Amazon AU)](https://www.amazon.com.au/s?k=twinstar+s+series&tag=aquapickedau-22) | [Check Price (Amazon US)](https://www.amazon.com/s?k=twinstar+s+series&tag=aquapicked-20)
 
 ## 6. ONF Flat Nano Plus — Best for Nano Planted Tanks Under 40cm
 
@@ -210,7 +210,7 @@ I've been using one over my 25-litre cube for about four months. At 100 µmol PA
 
 **Rating: 4.3/5**
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=onf+flat+nano+plus&tag=aquapicked-20)
+[Check Price (Amazon AU)](https://www.amazon.com.au/s?k=onf+flat+nano+plus&tag=aquapickedau-22) | [Check Price (Amazon US)](https://www.amazon.com/s?k=onf+flat+nano+plus&tag=aquapicked-20)
 
 ## What to Look For in a Low Tech Planted Tank Light
 
