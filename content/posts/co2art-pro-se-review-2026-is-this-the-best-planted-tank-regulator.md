@@ -10,10 +10,6 @@ author = "Aquarium Gear Guide"
   product = "CO2Art Pro SE Regulator"
   score = 4.6
   summary = "The best mid-range dual-stage CO2 regulator available. Premium brass construction, rock-solid bubble rate consistency, and complete end-of-tank dump protection make it the top pick for serious planted tank hobbyists."
-[params.cover]
-  image = "/images/products/co2art-pro-se.jpg"
-  alt = "Product image"
-  relative = false
 +++
 
 ## CO2Art Pro SE Review 2026: Six Months Later, Here's What I Think

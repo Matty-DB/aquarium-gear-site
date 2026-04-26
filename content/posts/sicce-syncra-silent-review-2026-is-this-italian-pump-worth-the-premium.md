@@ -10,10 +10,6 @@ author = "Aquarium Gear Guide"
   product = "Sicce Syncra Silent 2.0"
   score = 4.5
   summary = "A near-silent, beautifully engineered return pump that delivers 2,150 L/h at just 32 watts. It costs more than budget alternatives, but the ceramic shaft design and rock-solid reliability make it worth every dollar for most home aquariums."
-[params.cover]
-  image = "/images/products/sicce-syncra.jpg"
-  alt = "Product image"
-  relative = false
 +++
 
 ## Sicce Syncra Silent 2.0 Review: The Quietest Pump I've Ever Run?

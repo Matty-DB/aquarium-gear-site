@@ -10,10 +10,6 @@ author = "Aquarium Gear Guide"
   product = "AquaClear 30"
   score = 4.7
   summary = "The most reliable and cost-effective hang-on-back filter under $50. Its three-stage media basket system eliminates proprietary cartridge costs and delivers consistently clear water on tanks up to 114 litres."
-[params.cover]
-  image = "/images/products/aquaclear-30.jpg"
-  alt = "Product image"
-  relative = false
 +++
 
 ## Why the AquaClear 30 Is the Budget Filter to Beat

@@ -10,10 +10,6 @@ author = "Aquarium Gear Guide"
   product = "NICREW ClassicLED Plus"
   score = 4.2
   summary = "A brilliant budget aquarium light that punches well above its price. The aluminium housing, solid PAR output, and RGB colour enhancement make it the best value light under $60 AUD for low-to-medium light planted tanks in Australia."
-[params.cover]
-  image = "/images/products/nicrew-classicled.jpg"
-  alt = "Product image"
-  relative = false
 +++
 
 ## NICREW ClassicLED Plus Review 2026: The Budget Light That Keeps Delivering

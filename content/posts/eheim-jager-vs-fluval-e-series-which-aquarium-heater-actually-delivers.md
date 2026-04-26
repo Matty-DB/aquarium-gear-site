@@ -14,10 +14,6 @@ author = "Aquarium Gear Guide"
   product = "Fluval E Series Electronic Heater"
   score = 4.6
   summary = "A premium heater with built-in LCD monitoring, dual-sensor safety shut-off, and shatter-proof housing. The best choice for sensitive livestock and fishkeepers who want peace of mind."
-[params.cover]
-  image = "/images/products/eheim-jager.jpg"
-  alt = "Product image"
-  relative = false
 +++
 
 ## Eheim Jager vs Fluval E Series: A Hands-On Comparison

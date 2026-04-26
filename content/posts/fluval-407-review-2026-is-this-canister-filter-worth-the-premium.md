@@ -10,10 +10,6 @@ author = "Aquarium Gear Guide"
   product = "Fluval 407"
   score = 4.4
   summary = "A well-engineered canister filter with strong biological filtration, a ceramic impeller for quiet operation, and practical features like AquaStop valves and instant priming. The best all-rounder for most hobbyists running tanks between 200 and 450 litres."
-[params.cover]
-  image = "/images/products/fluval-407.jpg"
-  alt = "Product image"
-  relative = false
 +++
 
 ## Fluval 407 Review 2026: Six Months In, Here's My Honest Take

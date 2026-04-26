@@ -30,10 +30,6 @@ author = "Aquarium Gear Guide"
   product = "ONF Flat Nano Plus"
   score = 4.3
   summary = "Beautifully built Taiwanese nano light with stainless steel stands and USB-C power. Premium pricing for a nano light, but the build quality and even coverage justify the investment."
-[params.cover]
-  image = "/images/products/fluval-plant-3-0.jpg"
-  alt = "Product image"
-  relative = false
 +++
 
 ## Best Light for Low Tech Planted Tank: Tested and Ranked

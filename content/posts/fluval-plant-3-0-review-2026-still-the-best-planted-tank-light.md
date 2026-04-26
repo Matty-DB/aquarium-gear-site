@@ -10,10 +10,6 @@ author = "Aquarium Gear Guide"
   product = "Fluval Plant 3.0"
   score = 4.5
   summary = "Excellent all-round planted tank light with reliable scheduling, IP67 waterproofing, strong colour rendition, and wide Australian availability. Bluetooth-only app and lack of smart home integration are the only real drawbacks."
-[params.cover]
-  image = "/images/products/fluval-plant-3-0.jpg"
-  alt = "Product image"
-  relative = false
 +++
 
 ## Fluval Plant 3.0 Review 2026: Is It Still Worth Buying?

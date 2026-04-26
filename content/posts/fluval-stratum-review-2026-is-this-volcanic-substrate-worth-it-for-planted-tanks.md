@@ -10,10 +10,6 @@ author = "Aquarium Gear Guide"
   product = "Fluval Stratum"
   score = 4.3
   summary = "Excellent volcanic substrate for shrimp tanks and low-to-medium tech planted setups with reliable pH buffering to 6.0–6.8, though moderate nutrient content requires supplementation after four to five months and granules degrade within 18 months."
-[params.cover]
-  image = "/images/products/fluval-stratum.jpg"
-  alt = "Product image"
-  relative = false
 +++
 
 ## Fluval Stratum Review 2026: My Honest Take After Eight Months
