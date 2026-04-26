@@ -80,7 +80,7 @@ The 1.0 is the entry point for most hobbyists, and it's the model I recommend mo
 
 **Best for:** Nano reefs, small freshwater setups, or as a secondary circulation pump in a larger system. If your tank is under 200 litres and you value silence above all else, this is the one.
 
-[Check Price (Amazon AU)](https://www.amazon.com.au/s?k=sicce+syncra+silent+1+0&tag=aquapickedau-22) | [Check Price (Amazon US)](https://www.amazon.com/s?k=sicce+syncra+silent+1+0&tag=aquapicked-20)
+[Check Price (Amazon AU)](https://www.amazon.com.au/dp/B004T97HFE?tag=aquapickedau-22) | [Check Price (Amazon US)](https://www.amazon.com/s?k=sicce+syncra+silent+1.0&tag=aquapicked-20)
 
 ### Sicce Syncra Silent 2.0
 
@@ -118,7 +118,7 @@ The 3.0 bumps flow to 2,500 litres per hour but more importantly increases maxim
 
 **Best for:** Hobbyists with taller stands, complex plumbing runs, or tanks in the 300–500 litre range. Also a strong choice if you're running a reactor or UV steriliser inline, which adds back-pressure.
 
-[Check Price (Amazon AU)](https://www.amazon.com.au/s?k=sicce+syncra+silent+3+0&tag=aquapickedau-22) | [Check Price (Amazon US)](https://www.amazon.com/s?k=sicce+syncra+silent+3+0&tag=aquapicked-20)
+[Check Price (Amazon AU)](https://www.amazon.com.au/dp/B005EXTLUI?tag=aquapickedau-22) | [Check Price (Amazon US)](https://www.amazon.com/s?k=sicce+syncra+silent+3.0&tag=aquapicked-20)
 
 ### Sicce Syncra Silent 5.0
 
@@ -137,7 +137,7 @@ The big boy. At 5,000 litres per hour, this is overkill for most home aquariums,
 
 **Best for:** Large reef tanks (500+ litres), fish rooms with centralised filtration, or hobbyists who need serious flow without electronics or controllers that can fail.
 
-[Check Price (Amazon AU)](https://www.amazon.com.au/s?k=sicce+syncra+silent+5+0&tag=aquapickedau-22) | [Check Price (Amazon US)](https://www.amazon.com/s?k=sicce+syncra+silent+5+0&tag=aquapicked-20)
+[Check Price (Amazon AU)](https://www.amazon.com.au/s?k=sicce+syncra+silent+5.0&tag=aquapickedau-22) | [Check Price (Amazon US)](https://www.amazon.com/dp/B00NCPLMQ6?tag=aquapicked-20)
 
 ## What to Look For When Choosing a Syncra Silent Model
 
