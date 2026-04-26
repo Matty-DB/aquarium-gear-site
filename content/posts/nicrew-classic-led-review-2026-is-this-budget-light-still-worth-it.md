@@ -18,6 +18,10 @@ author = "Aquarium Gear Guide"
   product = "Hygger 999 LED"
   score = 3.8
   summary = "A functional budget LED that falls short of the NICREW Classic in both light output and usability. The single-button cycling interface and flimsier brackets make it the weaker option at a comparable price."
+[params.cover]
+  image = "/images/products/nicrew-classicled.jpg"
+  alt = "Product image"
+  relative = false
 +++
 
 ## NICREW Classic LED Review 2026: The Budget Light That Refuses to Die

@@ -22,6 +22,10 @@ author = "Aquarium Gear Guide"
   product = "Sicce Syncra Silent 5.0"
   score = 4.1
   summary = "Delivers serious 5,000 L/h flow for large reef tanks and fish rooms, but at 75 watts it runs louder than smaller models and faces stiff competition from variable-speed DC pumps at this price point."
+[params.cover]
+  image = "/images/products/sicce-syncra.jpg"
+  alt = "Product image"
+  relative = false
 +++
 
 ## Sicce Syncra Silent Review 2026: The Quietest Pump I've Ever Run?
@@ -190,6 +194,5 @@ Whichever model you choose, you're getting Italian engineering that's been refin
 
 ## Related Articles
 
-- [Best Return Pump for Sump Under $100: 5 Reliable Picks for 2026](/posts/best-return-pump-for-sump-under-100-5-reliable-picks-for-2026/)
-- [EcoTech VorTech vs Jebao Wave Maker: Which One Actually Deserves Your Money?](/posts/ecotech-vortech-vs-jebao-wave-maker-which-one-actually-deserves-your-money/)
-- [Best Aquarium Water Pump Under $40: 5 Reliable Picks for 2026](/posts/best-aquarium-water-pump-under-40-5-reliable-picks-for-2026/)
+- [Fluval 407 Review 2026: Is This Canister Filter Worth the Premium?](/posts/fluval-407-review-2026-is-this-canister-filter-worth-the-premium/)
+- [Fluval Stratum Review 2026: Is This Volcanic Substrate Worth It?](/posts/fluval-stratum-review-2026-is-this-volcanic-substrate-worth-it-for-planted-tanks/)

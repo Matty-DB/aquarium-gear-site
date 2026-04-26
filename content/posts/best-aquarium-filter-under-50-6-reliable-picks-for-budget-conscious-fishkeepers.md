@@ -30,6 +30,10 @@ author = "Aquarium Gear Guide"
   product = "OASE FiltoSmart 100"
   score = 4.6
   summary = "A genuine external canister filter at a budget price point, delivering near-silent operation and superior biological filtration for nano and small tanks under 100 litres."
+[params.cover]
+  image = "/images/products/aquaclear-30.jpg"
+  alt = "Product image"
+  relative = false
 +++
 
 ## Best Aquarium Filter Under $50: Filters That Actually Deliver
@@ -74,7 +78,7 @@ The flow rate adjusts via a simple lever on the intake tube, which is handy if y
 
 **Rating: 4.7/5**
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=aquaclear+30&tag=aquapicked-20)
+[Check Price on Amazon](https://www.amazon.com.au/dp/B0DCG5NK6Z?tag=aquapicked-20)
 
 ## 2. Seachem Tidal 35 — Best for Easy Maintenance
 
@@ -239,6 +243,5 @@ Every filter on this list delivers genuine value under $50 AUD. Pick the one tha
 
 ## Related Articles
 
-- [Best Sponge Filter for Betta Tank in 2026: 6 Filters I've Actually Tested](/posts/best-sponge-filter-for-betta-tank-in-2026-6-filters-i-ve-actually-tested/)
-- [Best Canister Filter Under $100: 5 Budget Picks That Actually Deliver (2026)](/posts/best-canister-filter-under-100-5-budget-picks-that-actually-deliver-2026/)
-- [Eheim Classic 350 vs Fluval 307: Which Canister Filter Wins in 2026?](/posts/eheim-classic-350-vs-fluval-307-which-canister-filter-wins-in-2026/)
+- [Fluval 407 Review 2026: Is This Canister Filter Worth the Premium?](/posts/fluval-407-review-2026-is-this-canister-filter-worth-the-premium/)
+- [Eheim Jager vs Fluval E Series: Which Aquarium Heater Actually Delivers?](/posts/eheim-jager-vs-fluval-e-series-which-aquarium-heater-actually-delivers/)

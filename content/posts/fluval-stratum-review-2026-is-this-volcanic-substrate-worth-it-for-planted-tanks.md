@@ -18,6 +18,10 @@ author = "Aquarium Gear Guide"
   product = "Seachem Flourite Black"
   score = 3.7
   summary = "A durable, inert clay substrate that never needs replacing, best suited for budget-conscious setups with hardy plants, though it offers zero nutrients out of the bag and its angular grains are unsuitable for delicate bottom-dwellers."
+[params.cover]
+  image = "/images/products/fluval-stratum.jpg"
+  alt = "Product image"
+  relative = false
 +++
 
 ## Fluval Stratum Review 2026: The Full Breakdown After Months of Use
@@ -41,7 +45,7 @@ Let me also touch on a couple of alternatives I've used alongside it, so you can
 | **Best For** | Shrimp tanks, low-tech planted setups | Serious planted tanks, aquascaping | Budget long-term setups, heavy root feeders |
 | **Approx. AU Price** | $35–45 AUD (8 kg) | $55–70 AUD (9 L) | $30–40 AUD (7 kg) |
 | **AU Availability** | Widely available — Petbarn, aquarium stores | Specialist only — Aquotix, Aquagreen | Moderate — some Petbarn locations, online |
-| **Affiliate Link** | [Check Price on Amazon](https://www.amazon.com.au/s?k=fluval+stratum+8kg&tag=aquapicked-20) | [Check Price on Amazon](https://www.amazon.com.au/s?k=ada+amazonia+ver+2+9l&tag=aquapicked-20) | [Check Price on Amazon](https://www.amazon.com.au/s?k=seachem+flourite+black+7kg&tag=aquapicked-20) |
+| **Affiliate Link** | [Check Price on Amazon](https://www.amazon.com.au/dp/B00JGQIY48?tag=aquapicked-20) | [Check Price on Amazon](https://www.amazon.com.au/s?k=ada+amazonia+ver+2+9l&tag=aquapicked-20) | [Check Price on Amazon](https://www.amazon.com.au/s?k=seachem+flourite+black+7kg&tag=aquapicked-20) |
 
 ## What Exactly Is Fluval Stratum?
 
@@ -165,7 +169,7 @@ Substrate is a recurring cost if you use aqua soils. Factor in replacement every
 - Cannot be effectively gravel-vacuumed without sucking up degraded fine particles
 - At $35–45 AUD per 8 kg bag, recurring replacement costs add up for larger tanks
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=fluval+stratum+8kg&tag=aquapicked-20)
+[Check Price on Amazon](https://www.amazon.com.au/dp/B00JGQIY48?tag=aquapicked-20)
 
 ## Final Verdict
 
@@ -174,7 +178,7 @@ After eight months of daily use across two tanks, my Fluval Stratum review for 2
 **Fluval Stratum — 4.3/5**
 The sweet spot for shrimp keepers and low-to-medium tech planted tanks. The pH buffering is reliable, the planting experience is pleasant, and the biological filtration benefits are real. Just go in with realistic expectations about nutrient longevity and granule degradation. If you're running a Caridina shrimp tank or a simple planted setup, this is an excellent choice that's easy to find at any Petbarn in Australia.
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=fluval+stratum+8kg&tag=aquapicked-20)
+[Check Price on Amazon](https://www.amazon.com.au/dp/B00JGQIY48?tag=aquapicked-20)
 
 **ADA Amazonia Ver. 2 — 4.6/5**
 The superior choice for serious planted tanks and aquascaping. Richer nutrients, longer-lasting granules, and better long-term performance. The heavy ammonia cycling period and higher price ($55–70 AUD, specialist retailers only) are the main barriers. If you're building a high-tech planted display tank and don't mind waiting a month to add livestock, Amazonia is worth the premium.

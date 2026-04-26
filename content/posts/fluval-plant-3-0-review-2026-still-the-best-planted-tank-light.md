@@ -18,6 +18,10 @@ author = "Aquarium Gear Guide"
   product = "Twinstar S Series"
   score = 4.0
   summary = "Clean, natural light output at a competitive price point, but the absence of programmable scheduling and difficulty sourcing in Australia limit its appeal."
+[params.cover]
+  image = "/images/products/fluval-plant-3-0.jpg"
+  alt = "Product image"
+  relative = false
 +++
 
 ## Fluval Plant 3.0 Review 2026: Is It Still Worth Buying?

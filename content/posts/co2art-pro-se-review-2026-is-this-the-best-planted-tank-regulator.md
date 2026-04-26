@@ -18,6 +18,10 @@ author = "Aquarium Gear Guide"
   product = "UP Aqua A-164 CO2 Regulator"
   score = 3.4
   summary = "A functional single-stage regulator for tight budgets, but the inherent end-of-tank dump risk and lack of integrated bubble counter make it difficult to recommend over dual-stage alternatives."
+[params.cover]
+  image = "/images/products/co2art-pro-se.jpg"
+  alt = "Product image"
+  relative = false
 +++
 
 ## CO2Art Pro SE Review 2026: Six Months Later, Here's What I Think

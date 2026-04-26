@@ -14,6 +14,10 @@ author = "Aquarium Gear Guide"
   product = "Fluval E Series Electronic Heater"
   score = 4.6
   summary = "A premium heater with built-in LCD monitoring, dual-sensor safety shut-off, and shatter-proof housing. The best choice for sensitive livestock and fishkeepers who want peace of mind."
+[params.cover]
+  image = "/images/products/eheim-jager.jpg"
+  alt = "Product image"
+  relative = false
 +++
 
 ## Eheim Jager vs Fluval E Series: A Hands-On Comparison
@@ -80,7 +84,7 @@ The indicator light on top glows when the heater is actively heating, which is a
 
 The Eheim Jager is ideal if you want a proven, affordable heater and you're happy to run a separate thermometer. It's a great choice for straightforward community tanks, breeding setups where you need precise calibration, or anyone who values simplicity and long-term reliability over fancy features. At $45–$75 AUD depending on wattage, it's hard to beat on value.
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=eheim+jager+aquarium+heater&tag=aquapicked-20)
+[Check Price on Amazon](https://www.amazon.com.au/dp/B001MX5X5G?tag=aquapicked-20)
 
 ## Fluval E Series: The Tech-Forward Option
 
@@ -166,6 +170,6 @@ After running both heaters extensively, here's my honest take:
 
 Either way, you're getting a quality heater from a reputable brand. Both are leagues ahead of the no-name imports that flood the market, and both should give you years of reliable service.
 
-[Check Price on Amazon](https://www.amazon.com.au/s?k=eheim+jager+aquarium+heater&tag=aquapicked-20)
+[Check Price on Amazon](https://www.amazon.com.au/dp/B001MX5X5G?tag=aquapicked-20)
 
 [Check Price on Amazon](https://www.amazon.com.au/s?k=fluval+e+series+aquarium+heater&tag=aquapicked-20)

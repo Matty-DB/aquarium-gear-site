@@ -18,6 +18,10 @@ author = "Aquarium Gear Guide"
   product = "Oase BioMaster 600"
   score = 4.6
   summary = "The most feature-rich canister in its class with the largest media capacity and an innovative built-in pre-filter. Premium pricing and limited Australian availability are the main drawbacks."
+[params.cover]
+  image = "/images/products/fluval-407.jpg"
+  alt = "Product image"
+  relative = false
 +++
 
 ## Fluval 407 Review 2026: Six Months In, Here's My Honest Take
@@ -201,7 +205,5 @@ For most Australian hobbyists running a mid-sized community or planted tank, the
 
 ## Related Articles
 
-- [Best Aquarium Filter Under $50: 6 Reliable Picks for Budget-Conscious Fishkeepers](/posts/best-aquarium-filter-under-50-6-reliable-picks-for-budget-conscious-fishkeepers/)
-- [Best Sponge Filter for Betta Tank in 2026: 6 Filters I've Actually Tested](/posts/best-sponge-filter-for-betta-tank-in-2026-6-filters-i-ve-actually-tested/)
-- [Best Canister Filter Under $100: 5 Budget Picks That Actually Deliver (2026)](/posts/best-canister-filter-under-100-5-budget-picks-that-actually-deliver-2026/)
-- [Eheim Classic 350 vs Fluval 307: Which Canister Filter Wins in 2026?](/posts/eheim-classic-350-vs-fluval-307-which-canister-filter-wins-in-2026/)
+- [Best Aquarium Filter Under $50 in 2026: 6 Filters I've Actually Tested](/posts/best-aquarium-filter-under-50-6-reliable-picks-for-budget-conscious-fishkeepers/)
+- [Sicce Syncra Silent Review 2026: Is This Italian Pump Worth the Premium?](/posts/sicce-syncra-silent-review-2026-is-this-italian-pump-worth-the-premium/)
