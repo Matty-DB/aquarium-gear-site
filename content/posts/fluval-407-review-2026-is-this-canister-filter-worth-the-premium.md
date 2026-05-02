@@ -87,7 +87,7 @@ After six months with the Fluval 407, I'm confident calling it the best all-roun
 
 It's not flawless — the stiff hosing, firm lid clamps, and lack of a built-in pre-filter are all liveable compromises. But for the complete package of performance, convenience, and build quality, the 407 hits the sweet spot. It's the filter I'd recommend to a mate setting up their first serious tank, and the one I'm happy to keep running on mine.
 
-[Check Price (Amazon AU)](https://www.amazon.com.au/s?k=fluval+407+canister+filter&tag=aquapickedau-22) | [Check Price (Amazon US)](https://www.amazon.com/dp/B07JFY2QW6?tag=aquapicked-20)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=fluval+407+canister+filter&tag=aquapickedau-22)
 
 ## Related Articles
 

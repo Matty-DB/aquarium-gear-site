@@ -79,7 +79,7 @@ If you're running a medium to large planted tank (100–500 litres) and want rel
 
 The lack of Australian distribution is the only real mark against it. I'd love to see CO2Art set up a local distributor, but the product itself makes the import wait worthwhile.
 
-[Check Price (Amazon AU)](https://www.amazon.com.au/s?k=co2art+pro+se+regulator&tag=aquapickedau-22) | [Check Price (Amazon US)](https://www.amazon.com/dp/B084TVM54D?tag=aquapicked-20)
+[Check Price on Amazon](https://www.amazon.com.au/s?k=co2art+pro+se+regulator&tag=aquapickedau-22)
 
 ## Related Articles
 

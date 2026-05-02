@@ -77,7 +77,7 @@ If you're on a budget or running a simple low-tech setup, you don't need this. A
 
 The Fluval Plant 4.0 is the best planted tank light you can buy in Australia right now for tanks up to 90 cm. The full spectrum output, app scheduling, and build quality are all excellent. The price stings and the app-only control won't suit everyone, but if you want a premium light that delivers serious plant growth, this is it.
 
-[Check Price (Amazon AU)](https://www.amazon.com.au/dp/B0DVMYMJZX?tag=aquapickedau-22)
+[Check Price on Amazon](https://www.amazon.com.au/dp/B0DVMYMJZX?tag=aquapickedau-22)
 
 ## Related Articles
 

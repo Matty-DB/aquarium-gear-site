@@ -58,7 +58,7 @@ The AquaClear 30 isn't flashy. It doesn't have app connectivity, LED indicators,
 
 For most fishkeepers on a budget, it's the safest recommendation I can make. Grab one, set it up, and get back to enjoying your tank.
 
-[Check Price (Amazon AU)](https://www.amazon.com.au/dp/B0DCG5NK6Z?tag=aquapickedau-22) | [Check Price (Amazon US)](https://www.amazon.com/dp/B00020SVDG?tag=aquapicked-20)
+[Check Price on Amazon](https://www.amazon.com.au/dp/B0DCG5NK6Z?tag=aquapickedau-22)
 
 ## Related Articles
 

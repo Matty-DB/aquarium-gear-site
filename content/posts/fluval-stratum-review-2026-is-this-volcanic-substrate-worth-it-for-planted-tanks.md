@@ -103,7 +103,7 @@ The sweet spot is shrimp keepers and low-to-medium tech planted tanks. The pH bu
 
 If you're running a Caridina shrimp tank or a simple planted setup, this is an excellent choice that's easy to find at any Petbarn in Australia. Grab an 8 kg bag, pick up a packet of root tabs for down the track, and you're sorted.
 
-[Check Price (Amazon AU)](https://www.amazon.com.au/dp/B00JGQIY48?tag=aquapickedau-22) | [Check Price (Amazon US)](https://www.amazon.com/dp/B00JGQIY48?tag=aquapicked-20)
+[Check Price on Amazon](https://www.amazon.com.au/dp/B00JGQIY48?tag=aquapickedau-22)
 
 ## Related Articles
 

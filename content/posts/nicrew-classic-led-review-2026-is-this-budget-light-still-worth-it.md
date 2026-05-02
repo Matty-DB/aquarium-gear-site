@@ -77,7 +77,7 @@ If your tank is over 50 cm or you want to grow demanding plants, look at the Flu
 
 The PYPABL Full Spectrum LED punches well above its $25 AUD price tag. The built-in timer, proper WRGB spectrum, and decent brightness make it the best value aquarium light I've tested for small tanks. It's not going to compete with lights five times its price, but it doesn't need to. For low-tech planted tanks under 50 cm, it does exactly what you need.
 
-[Check Price (Amazon AU)](https://www.amazon.com.au/dp/B0D13PSDT8?tag=aquapickedau-22) | [Check Price (Amazon US)](https://www.amazon.com/s?k=PYPABL+aquarium+LED+light&tag=aquapicked-20)
+[Check Price on Amazon](https://www.amazon.com.au/dp/B0D13PSDT8?tag=aquapickedau-22)
 
 ## Related Articles
 

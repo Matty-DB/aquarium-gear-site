@@ -80,7 +80,7 @@ If silence is your top priority and your budget allows it, this pump earns its p
 
 The Sicce Syncra 3.0 is one of those rare products that genuinely lives up to its name. It's not cheap, but it's the kind of purchase you make once and forget about — which is exactly what you want from a return pump. Italian engineering, ceramic shaft, near-zero noise, and rock-solid reliability. After six months, I'd buy it again without hesitation.
 
-[Check Price (Amazon AU)](https://www.amazon.com.au/dp/B005EXTLUI?tag=aquapickedau-22) | [Check Price (Amazon US)](https://www.amazon.com/s?k=sicce+syncra+3.0&tag=aquapicked-20)
+[Check Price on Amazon](https://www.amazon.com.au/dp/B005EXTLUI?tag=aquapickedau-22)
 
 ## Related Articles
 
