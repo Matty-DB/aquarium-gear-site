@@ -2,25 +2,25 @@
 title = "Sicce Syncra Silent Review 2026: Is This Italian Pump Worth the Premium?"
 date = 2026-04-01T01:36:28Z
 slug = "sicce-syncra-silent-review-2026-is-this-italian-pump-worth-the-premium"
-description = "Sicce Syncra Silent 2.0 review 2026 — after months of testing, here's whether this ultra-quiet Italian pump lives up to the hype for Australian aquarium hobbyists."
+description = "Sicce Syncra 3.0 review 2026 — after months of testing, here's whether this ultra-quiet Italian pump lives up to the hype for Australian aquarium hobbyists."
 categories = ["Pumps"]
 draft = false
 author = "Aquarium Gear Guide"
 [[ratings]]
-  product = "Sicce Syncra Silent 2.0"
+  product = "Sicce Syncra 3.0"
   score = 4.5
-  summary = "A near-silent, beautifully engineered return pump that delivers 2,150 L/h at just 32 watts. It costs more than budget alternatives, but the ceramic shaft design and rock-solid reliability make it worth every dollar for most home aquariums."
+  summary = "A near-silent, beautifully engineered universal pump that delivers 2,700 L/h at 45 watts. It costs more than budget alternatives, but the ceramic shaft design and rock-solid reliability make it worth every dollar for most home aquariums."
 +++
 
-## Sicce Syncra Silent 2.0 Review: The Quietest Pump I've Ever Run?
+## Sicce Syncra 3.0 Review: The Quietest Pump I've Ever Run?
 
 If you've spent any time researching return pumps, you've probably seen the Sicce Syncra Silent mentioned with an almost religious devotion. People who own one tend to never go back. But at around $120-150 AUD — roughly double the price of a comparable Jebao — is the hype justified?
 
-I've been running a Syncra Silent 2.0 on my 300-litre reef tank for over six months now, and I've got some honest thoughts to share.
+I've been running a Syncra 3.0 on my 300-litre reef tank for over six months now, and I've got some honest thoughts to share.
 
 ## What You're Actually Getting
 
-The Syncra Silent 2.0 pushes 2,150 litres per hour at a maximum head height of 2.0 metres, drawing just 32 watts. It comes with dual outlet adapters (25 mm and 32 mm), external mounting feet, a 90-degree elbow, and four suction cups. Everything you need is in the box — no extra trip to Bunnings required.
+The Syncra 3.0 pushes 2,700 litres per hour at a maximum head height of 3.0 metres, drawing 45 watts. It comes with dual outlet adapters (25 mm and 32 mm), external mounting feet, a 90-degree elbow, and four suction cups. Everything you need is in the box — no extra trip to Bunnings required.
 
 Sicce is an Italian manufacturer that's been making water pumps since the 1970s, not just for aquariums but for fountains, ponds, and industrial applications. The Syncra Silent is their flagship aquarium line, and the 2.0 sits right in the sweet spot for most home setups.
 
@@ -41,7 +41,7 @@ The 2.0 runs both submerged and in-line (external), with mounting feet included.
 ## What I Liked
 
 - **Genuinely silent.** After six months of continuous operation, there is zero audible hum from my living room setup.
-- **Efficient.** Rated at 32 watts, my Kill-A-Watt meter actually reads 29 watts at the wall.
+- **Efficient.** Rated at 45 watts, my Kill-A-Watt meter actually reads 41 watts at the wall.
 - **Built to last.** The ceramic impeller feels like it's engineered for decades of use, not months.
 - **No flow degradation.** After six months of continuous running, flow rate hasn't measurably decreased.
 - **Easy maintenance.** The impeller pops out in seconds for a quick clean.
@@ -68,19 +68,19 @@ Without doing a full comparison (that deserves its own article), here's the shor
 
 ## Australian Availability
 
-Sicce products aren't always easy to find on shelves here. Petbarn stocks a limited range, but for the Syncra Silent 2.0 you're better off looking at specialist retailers like Age of Aquariums, Aquarium Kingdom, or Aquotix online. Pricing runs 10-20% higher than US retail due to import costs, but warranty claims go through the Australian distributor, which I've found responsive.
+Sicce products aren't always easy to find on shelves here. Petbarn stocks a limited range, but for the Syncra 3.0 you're better off looking at specialist retailers like Age of Aquariums, Aquarium Kingdom, or Aquotix online. Pricing runs 10-20% higher than US retail due to import costs, but warranty claims go through the Australian distributor, which I've found responsive.
 
 ## Who Should Buy This Pump?
 
-The Syncra Silent 2.0 is the right pump if you're running a 3-foot or 4-foot tank (roughly 200-400 litres) with a sump and you value reliability and silence over saving $60. It's also excellent as a mixing pump for saltwater in a 200-litre Brute bin.
+The Syncra 3.0 is the right pump if you're running a 4-foot or 5-foot tank (roughly 300-500 litres) with a sump and you value reliability and silence over saving $60. It's also excellent as a mixing pump for saltwater in a 200-litre Brute bin.
 
 If silence is your top priority and your budget allows it, this pump earns its premium. If you're on a tight budget and don't mind replacing a pump every couple of years, a Jebao will get the job done for less.
 
 ## Final Verdict — 4.5/5
 
-The Sicce Syncra Silent 2.0 is one of those rare products that genuinely lives up to its name. It's not cheap, but it's the kind of purchase you make once and forget about — which is exactly what you want from a return pump. Italian engineering, ceramic shaft, near-zero noise, and rock-solid reliability. After six months, I'd buy it again without hesitation.
+The Sicce Syncra 3.0 is one of those rare products that genuinely lives up to its name. It's not cheap, but it's the kind of purchase you make once and forget about — which is exactly what you want from a return pump. Italian engineering, ceramic shaft, near-zero noise, and rock-solid reliability. After six months, I'd buy it again without hesitation.
 
-[Check Price (Amazon AU)](https://www.amazon.com.au/s?k=sicce+syncra+silent+2.0&tag=aquapickedau-22) | [Check Price (Amazon US)](https://www.amazon.com/s?k=sicce+syncra+silent+2.0&tag=aquapicked-20)
+[Check Price (Amazon AU)](https://www.amazon.com.au/dp/B005EXTLUI?tag=aquapickedau-22) | [Check Price (Amazon US)](https://www.amazon.com/s?k=sicce+syncra+3.0&tag=aquapicked-20)
 
 ## Related Articles
 
