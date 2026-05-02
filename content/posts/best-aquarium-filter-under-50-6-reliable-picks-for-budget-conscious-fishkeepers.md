@@ -64,5 +64,4 @@ For most fishkeepers on a budget, it's the safest recommendation I can make. Gra
 
 - [Fluval 407 Review 2026: Is This Canister Filter Worth the Premium?](/posts/fluval-407-review-2026-is-this-canister-filter-worth-the-premium/)
 - [Eheim Jager vs Fluval E Series: Which Aquarium Heater Actually Delivers?](/posts/eheim-jager-vs-fluval-e-series-which-aquarium-heater-actually-delivers/)
-- [Best Light for Low Tech Planted Tank in 2026: 6 Lights I've Actually Tested](/posts/best-light-for-low-tech-planted-tank-in-2026-6-lights-i-ve-actually-tested/)
 - [Fluval Plant 3.0 Review 2026: Still the Best Planted Tank Light?](/posts/fluval-plant-3-0-review-2026-still-the-best-planted-tank-light/)

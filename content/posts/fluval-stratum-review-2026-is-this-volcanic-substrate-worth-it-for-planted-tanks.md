@@ -108,7 +108,6 @@ If you're running a Caridina shrimp tank or a simple planted setup, this is an e
 ## Related Articles
 
 - [Best Aquarium Filter Under $50: 6 Reliable Picks for Budget-Conscious Fishkeepers](/posts/best-aquarium-filter-under-50-6-reliable-picks-for-budget-conscious-fishkeepers/)
-- [Best Light for Low-Tech Planted Tank in 2026: 6 Lights I've Actually Tested](/posts/best-light-for-low-tech-planted-tank-in-2026-6-lights-i-ve-actually-tested/)
 - [Fluval 407 Review 2026: Is This Canister Filter Worth the Premium?](/posts/fluval-407-review-2026-is-this-canister-filter-worth-the-premium/)
 - [Fluval Plant 3.0 Review 2026: Still the Best Planted Tank Light?](/posts/fluval-plant-3-0-review-2026-still-the-best-planted-tank-light/)
 - [CO2Art Pro-SE Review 2026: Is This the Best Planted Tank Regulator?](/posts/co2art-pro-se-review-2026-is-this-the-best-planted-tank-regulator/)

@@ -81,7 +81,6 @@ The PYPABL Full Spectrum LED punches well above its $25 AUD price tag. The built
 
 ## Related Articles
 
-- [Best Light for Low-Tech Planted Tank in 2026: 6 Lights I've Actually Tested](/posts/best-light-for-low-tech-planted-tank-in-2026-6-lights-i-ve-actually-tested/)
 - [Fluval Plant 3.0 Review 2026: Still the Best Planted Tank Light?](/posts/fluval-plant-3-0-review-2026-still-the-best-planted-tank-light/)
 - [Fluval Stratum Review 2026: Is This Volcanic Substrate Worth It for Planted Tanks?](/posts/fluval-stratum-review-2026-is-this-volcanic-substrate-worth-it-for-planted-tanks/)
 - [Best Aquarium Filter Under $50 in 2026: 6 Filters I've Actually Tested](/posts/best-aquarium-filter-under-50-6-reliable-picks-for-budget-conscious-fishkeepers/)

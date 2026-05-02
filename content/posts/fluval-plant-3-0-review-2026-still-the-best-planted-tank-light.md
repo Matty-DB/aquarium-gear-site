@@ -81,7 +81,6 @@ The Fluval Plant 4.0 is the best planted tank light you can buy in Australia rig
 
 ## Related Articles
 
-- [Best Light for Low-Tech Planted Tank in 2026: 6 Lights I've Actually Tested](/posts/best-light-for-low-tech-planted-tank-in-2026-6-lights-i-ve-actually-tested/)
 - [NICREW Classic LED Review 2026: Is This Budget Light Still Worth It?](/posts/nicrew-classic-led-review-2026-is-this-budget-light-still-worth-it/)
 - [Fluval Stratum Review 2026: Is This Volcanic Substrate Worth It for Planted Tanks?](/posts/fluval-stratum-review-2026-is-this-volcanic-substrate-worth-it-for-planted-tanks/)
 - [CO2Art Pro SE Review 2026: Is This the Best Planted Tank Regulator?](/posts/co2art-pro-se-review-2026-is-this-the-best-planted-tank-regulator/)
