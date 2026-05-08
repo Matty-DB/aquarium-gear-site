@@ -1,6 +1,6 @@
 +++
 title = "Seachem Flourite Black Sand Review 2026: Is This Premium Substrate Worth It?"
-date = 2026-05-08T10:00:00Z
+date = 2026-05-08T00:00:00Z
 slug = "seachem-flourite-black-sand-review-2026-is-this-premium-substrate-worth-it"
 description = "Seachem Flourite Black Sand review 2026 — after months of use in a planted tank, here's whether this premium substrate delivers for Australian fishkeepers."
 categories = ["Substrates"]
