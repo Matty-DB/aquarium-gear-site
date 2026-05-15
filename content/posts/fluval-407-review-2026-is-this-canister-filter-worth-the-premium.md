@@ -2,6 +2,7 @@
 title = "Fluval 407 Review 2026: Is This Canister Filter Worth the Premium?"
 date = 2026-04-01T01:24:41Z
 slug = "fluval-407-review-2026-is-this-canister-filter-worth-the-premium"
+aliases = ["/posts/fluval-407-review/"]
 description = "Detailed Fluval 407 review for 2026. After 6 months of testing, here's what this canister filter gets right, where it falls short, and who should buy it."
 categories = ["Filters"]
 draft = false

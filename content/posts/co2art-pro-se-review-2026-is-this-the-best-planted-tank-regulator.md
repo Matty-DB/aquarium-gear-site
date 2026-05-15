@@ -2,6 +2,7 @@
 title = "CO2Art Pro SE Review 2026: Is This the Best Planted Tank Regulator?"
 date = 2026-04-01T01:18:38Z
 slug = "co2art-pro-se-review-2026-is-this-the-best-planted-tank-regulator"
+aliases = ["/posts/co2art-pro-se-review/"]
 description = "Hygger CO2 Regulator review 2026 — a dual gauge regulator with solenoid valve for under $100 AUD. Here's whether it delivers for Australian planted tank hobbyists."
 categories = ["CO2 Systems"]
 draft = false

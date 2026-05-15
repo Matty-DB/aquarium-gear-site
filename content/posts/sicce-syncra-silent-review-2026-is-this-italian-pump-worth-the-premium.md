@@ -2,6 +2,7 @@
 title = "Sicce Syncra Silent Review 2026: Is This Italian Pump Worth the Premium?"
 date = 2026-04-01T01:36:28Z
 slug = "sicce-syncra-silent-review-2026-is-this-italian-pump-worth-the-premium"
+aliases = ["/posts/sicce-syncra-silent-review/"]
 description = "Sicce Syncra 3.0 review 2026 — after months of testing, here's whether this ultra-quiet Italian pump lives up to the hype for Australian aquarium hobbyists."
 categories = ["Pumps"]
 draft = false

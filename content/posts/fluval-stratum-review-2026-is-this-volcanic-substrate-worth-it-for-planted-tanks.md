@@ -2,6 +2,7 @@
 title = "Fluval Stratum Review 2026: Is This Volcanic Substrate Worth It for Planted Tanks?"
 date = 2026-04-01T01:30:46Z
 slug = "fluval-stratum-review-2026-is-this-volcanic-substrate-worth-it-for-planted-tanks"
+aliases = ["/posts/fluval-stratum-review/"]
 description = "Fluval Stratum review 2026 — after months of use in planted and shrimp tanks, here's my honest take on this volcanic substrate's performance, pros, cons, and value."
 categories = ["Substrates"]
 draft = false

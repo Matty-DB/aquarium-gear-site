@@ -2,6 +2,7 @@
 title = "Best Aquarium Filter Under $50 in 2026: 6 Filters I've Actually Tested"
 date = 2026-04-01T01:24:41Z
 slug = "best-aquarium-filter-under-50-6-reliable-picks-for-budget-conscious-fishkeepers"
+aliases = ["/posts/best-aquarium-filter-under-50/"]
 description = "After months of testing, the AquaClear 30 is my top pick for budget filtration. Here's why this $40-68 AUD hang-on-back filter beats everything else under fifty bucks."
 categories = ["Filters"]
 draft = false

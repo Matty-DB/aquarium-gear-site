@@ -2,6 +2,7 @@
 title = "Eheim Jager vs Fluval E Series: Which Aquarium Heater Actually Delivers?"
 date = 2026-04-01T01:36:28Z
 slug = "eheim-jager-vs-fluval-e-series-which-aquarium-heater-actually-delivers"
+aliases = ["/posts/eheim-jager-vs-fluval-e-series/"]
 description = "Eheim Jager vs Fluval E Series — we compare specs, accuracy, and reliability to help you pick the right aquarium heater for your setup. Full breakdown inside."
 categories = ["Heaters"]
 draft = false

@@ -2,6 +2,7 @@
 title = "Fluval Plant 3.0 Review 2026: Still the Best Planted Tank Light?"
 date = 2026-04-01T01:11:13Z
 slug = "fluval-plant-3-0-review-2026-still-the-best-planted-tank-light"
+aliases = ["/posts/fluval-plant-3-0-review/"]
 description = "Fluval Plant 4.0 LED review 2026 — the upgraded successor to the 3.0. After months of use, here's whether it's worth the price for Australian planted tank hobbyists."
 categories = ["Lighting"]
 draft = false
